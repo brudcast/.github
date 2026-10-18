@@ -11,6 +11,7 @@ apps to it are open source, and they live here.
 - [brudcast-sdk-ios](https://github.com/brudcast/brudcast-sdk-ios): Swift SDK for iOS apps
 - [brudcast-sdk-android](https://github.com/brudcast/brudcast-sdk-android): Kotlin SDK for Android apps
 - [brudcast-sdk-flutter](https://github.com/brudcast/brudcast-sdk-flutter): Flutter plugins over the native iOS and Android SDKs
+- [brudcast-sdk-react-native](https://github.com/brudcast/brudcast-sdk-react-native): React Native packages over the native iOS and Android SDKs
 - [brudcast-sample-backend](https://github.com/brudcast/brudcast-sample-backend): the server half of a mobile integration, for the sample apps
 
 **Mail transports**: send through the Brudcast mailing service from the framework you already use
