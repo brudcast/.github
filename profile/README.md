@@ -29,4 +29,4 @@ request on the repository it belongs to.
 Learn more about Brudcast at [brudcast.com](https://brudcast.com).
 Need help? Write to [support@brudcast.com](mailto:support@brudcast.com).
 
-👋 [@brudcast](https://x.com/brudcast)
+👋 [@brudcasthq](https://x.com/brudcasthq)
